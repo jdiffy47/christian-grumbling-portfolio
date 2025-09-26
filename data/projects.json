@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Responsive Landing Page",
+    "description": "Semantic HTML and CSS layout practice with Flexbox and Grid.",
+    "tags": ["HTML","CSS","Accessibility"],
+    "link": "#",
+    "source": "#"
+  },
+  {
+    "title": "JS Counter",
+    "description": "Simple DOM app with increment/decrement and a zero guard.",
+    "tags": ["JavaScript","DOM"],
+    "link": "#",
+    "source": "#"
+  },
+  {
+    "title": "Color Palette Picker",
+    "description": "Pick a color scheme and copy CSS variables to the clipboard.",
+    "tags": ["JavaScript","UX"],
+    "link": "#",
+    "source": "#"
+  }
+]

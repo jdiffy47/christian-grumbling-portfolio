@@ -1,0 +1,6 @@
+[
+  {"week": "Week 1 – Foundation", "note": "Set up my portfolio and learned the importance of writing clean, semantic HTML."},
+  {"week": "Week 2 – Layout Mastery", "note": "Experimented with CSS Flexbox and Grid to build responsive layouts that actually adapt to different screens."},
+  {"week": "Week 3 – Interactivity Unlocked", "note": "Brought pages to life with JavaScript by manipulating the DOM and handling events."},
+  {"week": "Week 4 – First Build", "note": "Added my first project card to the site and started reflecting on how these skills connect to real projects."}
+]
